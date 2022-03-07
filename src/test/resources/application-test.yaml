@@ -1,0 +1,5 @@
+ldap:
+  url: localhost
+  base: dc=maxcrc,dc=com
+  username: cn=Manager,dc=maxcrc,dc=com
+  password: secret
